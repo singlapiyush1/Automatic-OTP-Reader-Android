@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="success_login_msg">Success</string>
+    <string name="error_login_msg">Error</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="set_new_password">Reset Password</string>
+    <string name="employee_id">Enter Employee ID</string>
+    <string name="sendOTP">Send OTP</string>
+    <string name="otpVerification">Verify OTP</string>
+    <string name="enterOTP">Enter OTP</string>
+    <string name="resendOTP">Resend OTP</string>
+</resources>
